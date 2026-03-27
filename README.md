@@ -26,6 +26,10 @@ Este projeto foi construído com as seguintes tecnologias:
 *   `src/main.tsx`: Ponto de entrada da aplicação React.
 *   `vite.config.ts`: Configurações de build do Vite.
 
+![Gravação de tela de 2026-03-26 22-33-45](https://github.com/user-attachments/assets/8fd0ab20-d8b6-4703-b038-2d5670cd276e)
+
+
+0
 ## 🔧 Como Executar o Projeto
 
 1.  **Clone o repositório:**
